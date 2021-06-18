@@ -82,7 +82,7 @@ handleFormSubmit = (e)=>{
                 <button type="submit" class="flex mx-auto text-white bg-purple-800 border-0 py-2 px-8 focus:outline-none hover:bg-purple-600 rounded text-lg">Submit</button>
               </div>
               <div class="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-                <a class="text-purple-500">our@email.com</a>
+                <p class="text-purple-500">our@email.com</p>
                 <p class="leading-normal my-5">Name our group</p>
               </div>
             </div>
